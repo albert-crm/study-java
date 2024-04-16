@@ -1,1 +1,1 @@
-# study-java
+# rookie-javase
